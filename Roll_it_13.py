@@ -47,8 +47,7 @@ def int_check():
 
 # Main routine
 
-# ask the user if they want instrunctions (check they say yes / no)
-
+# ask the user if they want instructions (check they say yes / no)
 want_instructions = yes_no("Do you want to see the instructions? ")
 
 # Display the instructions if the user wants to see them...
